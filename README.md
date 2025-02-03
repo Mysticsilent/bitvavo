@@ -7,6 +7,7 @@ If you do not have HACS installed yet visit https://hacs.xyz for installation in
 2. Add the repository address "https://github.com/Mysticsilent/bitvavo" and choose type to "Integration".
 3. Close the repository screen.
 4. Search for "bitvavo" and choose Download.
+5. Restart Home assistant after installation of the component.
 
 ### Install manually
 Clone or copy this repository and copy the folder 'custom_components/bitvavo' into '<homeassistant config>/custom_components/bitvavo'
